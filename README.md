@@ -26,6 +26,7 @@ Challenge your mind and test your Python skills with this interactive quiz proje
 - Dependencies listed in requirements.txt
 
 ## License
-This repository is licensed under the MIT License. See LICENSE for more details.
-Acknowledgments
+This repository is licensed under the GNU Affero General Public License. See LICENSE for more details.
+
+## Acknowledgments
 Thanks for checking out my work! These projects were inspired by learning Python through hands-on practice and problem-solving.
